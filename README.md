@@ -13,11 +13,11 @@
 
 - 👨‍💻 Many of my projects are available at [www.recruiting-online.com/glenn](www.recruiting-online.com/glenn)
 
-- 📝 I regulary write articles on [www.sourcecon.com](www.sourcecon.com)
+- 📝 I regularly write articles on [www.sourcecon.com](www.sourcecon.com) and speak at recruitment/talent sourcing conferences like HRTX, SourceCon, Sourcing Summit, etc.
 
 - 💬 Ask me about **diversity recruiting, global talent sourcing methods**
 
-- 📫 How to reach me **glenn@recruiting-online.com**
+- 📫 How to reach me **glenn at recruiting-online dot com**
 
 - ⚡ Fun fact **I started New England's first job posting/resume board for a newspaper chain in the '90s**
 
