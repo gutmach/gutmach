@@ -11,9 +11,9 @@
 
 - 🤔 I’m looking for help with **Facebook scraping**
 
-- 👨‍💻 Many of my projects are available at [http://www.recruiting-online.com/glenn/](www.recruiting-online.com/glenn)
+- 👨‍💻 Many of my projects are available at <a href="http://www.recruiting-online.com/glenn/" target=_blank>www.recruiting-online.com/glenn</a>
 
-- 📝 I regularly write articles on [http://www.sourcecon.com](www.sourcecon.com) and speak at recruitment/talent sourcing conferences like HRTX, SourceCon, Sourcing Summit, etc.
+- 📝 I regularly write articles on <a href="https://www.sourcecon.com" target=_blank>www.sourcecon.com</a> and speak at recruitment/talent sourcing conferences like HRTX, SourceCon, Sourcing Summit, etc.
 
 - 💬 Ask me about **diversity recruiting, global talent sourcing methods**
 
