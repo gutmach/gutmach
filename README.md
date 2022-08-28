@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gutmach" alt="gutmach" /> </p>
 
-- 🔭 I’m currently working on [custom web scrapers](https://github.com/gutmach/sosuv)
+- 🔭 I’m currently working on [custom web scrapers](https://github.com/gutmach/sosuv) and [other productivity-boosting scripts](https://github.com/gutmach/SourceConExtras)
 
 - 🌱 I’m currently learning **JavaScript promises, Google Apps Script, basic Python**
 
 - 👯 I’m looking to collaborate on **anything that might help recruiters get more tech-savvy**
 
-- 🤔 I’m looking for help with **Facebook scraping**
+- 🤔 I’m looking for help with **Facebook scraping** and help getting lists of attendees/registrants out of technical conferences online (assuming you can login to the event, which is easy nowadays since most virtual events are free) via the DevTools Network tab, etc.
 
 - 👨‍💻 Many of my projects are available at <a href="http://www.recruiting-online.com/glenn/" target=_blank>www.recruiting-online.com/glenn</a>
 
